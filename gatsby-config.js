@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Bruno Nogueira`,
-    description: `Blog sobre desenvolvimento de sistemas, serviços e aplicativos.`,
-    author: `@gatsbyjs`,
+    position: `Programador`,
+    description: `Programador full stack escrevendo sobre desenvolvimento de softwate, tecnologia e vida em geral.`,
+    author: `Bruno Nogueira`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
