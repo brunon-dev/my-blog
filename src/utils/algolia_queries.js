@@ -7,6 +7,7 @@ const postsQuery = `{
           objectID: id
           frontmatter {
             category
+            background
             date_timestamp: date
             date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
             description
