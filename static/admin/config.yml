@@ -2,7 +2,7 @@ backend:
   name: github
   repo: eu-brunon/my-blog
   branch: master
-  site_domain: https://brunon.netlify.com/
+  site_domain: brunon.netlify.com
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
