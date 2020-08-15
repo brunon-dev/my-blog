@@ -1,7 +1,7 @@
 ---
 title: Instalando robôs no MetaTrader 5
-description: Aprenda a instalar diferentes robôs no seu MetaTrader 5
-date: 2018-12-05 09:15:34
+description: Entenda como instalar diferentes robôs no seu MetaTrader 5
+date: 2018-12-05T09:15:34.000Z
 image: assets/img/instalando-robo-mt5.png
 category: mt5
 background: "#7D669E"
