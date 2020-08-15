@@ -85,3 +85,13 @@ Além da customização de cores, também é possível incluir indicadores no gr
 ## Alterando o timeframe dos gráficos
 
 É possível ainda alterar os tempos do gráfico. Por padrão os gráficos são exibidos com intervalos de 1 hora. Para customizar, baste seguir a orientação abaixo:
+
+Antes de mais nada, no menu principal, opção “Gráficos” -> “Timeframes” e escolher uma das opções disponíveis.
+
+![Escolha do timeframe do gráfico](assets/img/13-timeframe.png "Opções relacionadas ao timeframe do gráfico")
+
+Da mesma forma, a opção “Timeframes” também fica disponível ao clicar com botão direito do mouse sobre o gráfico.
+
+Por fim, no vídeo abaixo mostramos em detalhes as configurações feitas neste post. Além disso, não deixe de se inscrever no canal e ativar as notificações, para ser avisado quando forem publicados novos conteúdos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6LwUixHCwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
