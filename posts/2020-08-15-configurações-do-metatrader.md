@@ -1,6 +1,6 @@
 ---
 title: Configurações do MetaTrader
-description: Aprenda as configurações básicas no MetaTrader 5 para começar a
+description: Veja quais as configurações básicas no MetaTrader 5 para começar a
   trabalhar com a plataforma.
 date: 2018-11-21T04:38:38.000Z
 image: assets/img/configuracao-metatrader.png
