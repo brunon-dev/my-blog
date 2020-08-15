@@ -28,3 +28,21 @@ Depois da instalação da plataforma, é preciso fazer as configurações do Met
 4. Ao abrir várias janelas de gráfico é possível acessá-las através do menu principal, opção “Janela”, além de ter opções para organizar as mesmas (ex.: com a opção “Lado a lado”).
 
 ![Organizando as janelas no MetaTrader](assets/img/05-organizacao-janela.png "Opções para organização de janelas")
+
+## Configurações dos gráficos
+
+Outras alterações importantes estão relacionadas com gráficos. Uma das configurações mais importantes está relacionada com o tipo de gráfico.
+
+1. Primeiramente, no menu principal do sistema selecionar a opção “Gráficos”.
+
+2. Logo depois, escolher entre as opções “Gráfico de barras”, “Gráfico de velas (Candles)” e “Gráfico de linha”.
+
+![Tipos de gráficos disponíveis](assets/img/06-menu-grafico.png "Opções de tipos de gráfico")
+
+3. Uma segunda opção é clicar com o botão direito do mouse sobre o gráfico. As opções exibidas são as mesmas.
+
+![Menu suspenso com opções de gráfico](assets/img/07-tipos-grafico.png "Opções de gráfico no menu do botão direito do mouse")
+
+4. Também é possível usar as teclas de atalho: “Alt + 1” (barra), “Alt + 2” (velas) e “Alt + 3” (linha).
+
+Outra opção interessante relacionada às configurações do MetaTrader está relacionada com as cores do gráfico. É possível fazer diversas customizações neste sentido, como mostramos no passo a passo abaixo:
