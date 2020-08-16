@@ -2,7 +2,7 @@
 title: O básico sobre backtest
 description: Conheça a funcionalidade de backtest disponível no MetaTrader 5
   para robôs/ativos.
-date: 2019-01-06 11:09:39
+date: 2019-01-06T11:09:39.000Z
 image: assets/img/backtest-metatrader-5-base.png
 category: mt5
 background: "#7D669E"
@@ -24,27 +24,23 @@ Para acessar o recurso de teste da plataforma escolha a opção “Exibir” -> 
 As informações relevantes para configuração do teste são:
 
 1. Primeiramente é necessário definir se o teste é para um “Expert Advisor” (Robô) ou para um “Indicador”.
-
 2. Em seguida, no caso de ter escolhido um robô, basta selecionar qual será usado no teste. É preciso que você tenha o robô instalado no seu ambiente, como vimos em posts anteriores. O robô escolhido neste passo influencia na guia “Parâmetros de entrada”, onde você vai fazer as configurações.
-
 3. Em seguida, vamos definir que ativo será tentado.
-
 4. Além disso, temos que definir o timeframe do teste. Vamos testar com tickets a cada 15 minutos (M15), meia hora (M30), 1 hora (H1), 8 horas (H8), etc. Existem diversas opções disponíveis.
-
 5. Podemos definir também o período, considerando opções de períodos fechados (“Último mês”, “Último ano”) ou com “Período personalizado”, onde se define data de início e fim do teste.
-
 6. Opção “Para frente”, permite realizar testes avançados. Vamos falar sobre este recurso no futuro, em outros posts, por isso por enquanto basta deixar seleciona a opção padrão “Não”.
-
 7. Também é possível incluir latência nas suas ordens, para aproximar de um cenário real. Isto porque numa conta real existe uma latência entre o envio da ordem e a execução em si. De qualquer forma, vamos deixar a opção “Sem latência” selecionado.
-
 8. Use este campo para definir se o teste usará que conjunto de ticks, considerando as opções:
 
-* cada um dos ticks entre o maior preço e o menor preço;
-* todos os ticks reais do histórico da corretora;
-* os preços de abertura, fechamento, maior tick e menor tick (OHLC – Open, High, Low e Close). Está será a opção que vamos utilizar;
-* apenas preços de abertura;
-* cálculos matemáticos, usados para robôs específicos.  
+\-> cada um dos ticks entre o maior preço e o menor preço;
+
+\-> todos os ticks reais do histórico da corretora;
+
+\-> os preços de abertura, fechamento, maior tick e menor tick (OHLC – Open, High, Low e Close). Está será a opção que vamos utilizar;
+
+\-> apenas preços de abertura;
+
+\-> cálculos matemáticos, usados para robôs específicos.  
 
 9. Em seguida é necessário confirmar o valor do depósito que será usado no teste e a moeda. Caso a opção de real brasileiro não esteja disponível, basta digitar “BRL”.
-
 10. Opção de otimização. Vamos deixar desabilitado por enquanto, pois será tratado no próximo vídeo.
