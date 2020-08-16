@@ -31,16 +31,10 @@ As informações relevantes para configuração do teste são:
 6. Opção “Para frente”, permite realizar testes avançados. Vamos falar sobre este recurso no futuro, em outros posts, por isso por enquanto basta deixar seleciona a opção padrão “Não”.
 7. Também é possível incluir latência nas suas ordens, para aproximar de um cenário real. Isto porque numa conta real existe uma latência entre o envio da ordem e a execução em si. De qualquer forma, vamos deixar a opção “Sem latência” selecionado.
 8. Use este campo para definir se o teste usará que conjunto de ticks, considerando as opções:
-
-1) cada um dos ticks entre o maior preço e o menor preço;
-
-2) todos os ticks reais do histórico da corretora;
-
-3) os preços de abertura, fechamento, maior tick e menor tick (OHLC – Open, High, Low e Close). Está será a opção que vamos utilizar;
-
-4) apenas preços de abertura;
-
-5) cálculos matemáticos, usados para robôs específicos.  
-
-9. Em seguida é necessário confirmar o valor do depósito que será usado no teste e a moeda. Caso a opção de real brasileiro não esteja disponível, basta digitar “BRL”.
-10. Opção de otimização. Vamos deixar desabilitado por enquanto, pois será tratado no próximo vídeo.
+9. cada um dos ticks entre o maior preço e o menor preço;
+10. todos os ticks reais do histórico da corretora;
+11. os preços de abertura, fechamento, maior tick e menor tick (OHLC – Open, High, Low e Close). Está será a opção que vamos utilizar;
+12. apenas preços de abertura;
+13. cálculos matemáticos, usados para robôs específicos.  
+14. Em seguida é necessário confirmar o valor do depósito que será usado no teste e a moeda. Caso a opção de real brasileiro não esteja disponível, basta digitar “BRL”.
+15. Opção de otimização. Vamos deixar desabilitado por enquanto, pois será tratado no próximo vídeo.
