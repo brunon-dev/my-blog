@@ -1,7 +1,7 @@
 ---
 title: 6 dicas de segurança no WordPress
 description: Dicas para aumentar a segurança do seu site WordPress
-date: 2017-12-08T04:41:00.000Z
+date: 2017-08-12 02:41:00
 image: assets/img/post_security.png
 category: wp
 background: "#459EDE"
