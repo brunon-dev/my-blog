@@ -2,13 +2,11 @@
 title: Conhecendo o MetaTrader
 description: Já ouviu falar em robôs investidores? Conheça um pouco mais sobre
   esta tendência.
-date: 2018-11-11 01:37:00
+date: 2018-11-11T01:37:00.000Z
 image: assets/img/conhecendo-mt.png
 category: mt5
 background: "#7D669E"
 ---
-## Conhecendo o MetaTrader
-
 O MetaTrader é uma das principais plataformas para trading multimercado. Isso porque existem milhares de pessoas ao redor do mundo usando a ferramenta para o mercado de câmbio (Forex) e Ações. É possível usá-la para fazer análise técnica, para criação de sistemas automáticos de negociação e até para copiar transações de outros traders. Além de visualizar gráficos de preços para detectar oportunidades de compra e venda, também é possível operar de forma independente de operação humana, a partir de configurações prévias de estratégias.
 
 A primeira versão do produto foi desenvolvida em 2005 e de lá para cá ela só tem evoluído. Não só em relação às funcionalidades, mas também em quantidade de usuários ativos. No Brasil, algumas das principais corretoras autorizadas pela B3 já suportam a plataforma. XP, Modal Mais, Clear, Rico e outras já possuem a estrutura necessária para operar com a ferramenta. Fornecem o software para que os clientes pessoa física possam se beneficiar do Metatrader.
