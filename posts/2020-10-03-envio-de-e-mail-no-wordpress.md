@@ -1,13 +1,11 @@
 ---
 title: Envio de e-mail no WordPress
 description: Entenda e configure um plugin para envio de e-mails no WordPress
-date: 2017-10-13 05:14:00
+date: 2017-10-13T05:14:00.000Z
 image: assets/img/post_mail.png
 category: wp
 background: "#459EDE"
 ---
-# Envio de e-mail no WordPress
-
 ## Enviando e-mail de forma simples
 
 Um dos pontos importantes em muitos sites é configurar o envio de e-mails. Quando definimos um formulário de contato, por exemplo, é importante definir uma configuração que permita que esse contato seja enviado para um e-mail que tenhamos acesso com frequência. Para configurar o envio de e-mail no WordPress é bem simples, porque podemos utilizar um dos vários plugins de SMTP disponibilizados pela comunidade. Neste post vamos mostrar como utilizar o WP Mail SMTP by WPForms.
@@ -28,7 +26,7 @@ O primeiro passo é escolher a opção “Plugins” na área administrativa, se
 
 Entre os diversos plugins retornados pela busca, utilizar o plugin “WP Mail SMTP by WPForms”. Olhando os critérios de avaliação de plugins ele tem muitas instalações (700.000+), 4.5 estrelas e a última atualização foi a menos de 1 ano. Por isso ele é uma boa opção para envio de e-mail no WordPress.
 
-![Características do plugin de e-mail recomendado](assets/img/plugin.png "Plugin \"WP Mail SMTP by WPForms\"")
+![Características do plugin de e-mail recomendado](assets/img/plugin.png "Plugin \\"WP Mail SMTP by WPForms\\"")
 
 Depois de instalado e ativado, é possível acessar as configurações de e-mail através da opção de menu “Configurações” -> “Mail”.
 
