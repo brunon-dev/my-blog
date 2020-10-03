@@ -2,14 +2,14 @@
 title: Instalação do MetaTrader 5
 description: Aprenda a instalar o MetaTrader 5, a principal ferramenta de
   automatização de trades.
-date: 2018-11-12 12:55:24
+date: 2018-11-12T12:55:24.000Z
 image: assets/img/00-instalacao-mt5.png
 category: mt5
 background: "#7D669E"
 ---
 Muita gente tem falado sobre robôs de investimento, mas ainda existem muitas dúvidas de como funciona e principalmente como posso dar os primeiros passos. Neste artigo vamos mostrar o passo a passo de instalação e de configuração de uma conta demo em corretora.
 
-## Instalação do MetaTrader 5
+## Primeiros passos da instalação
 
 O primeiro passo para quem quer trabalhar com robôs investidores é a instalação do MetaTrader 5. Como mostramos no post de apresentação da plataforma, ela é uma das mais usadas no mundo. Por isso vamos ver como fazer download do instalador para o Windows. Além disso, vamos ver como configurar uma conta demo da XP Investimentos, para começar a brincar com a ferramenta.
 
