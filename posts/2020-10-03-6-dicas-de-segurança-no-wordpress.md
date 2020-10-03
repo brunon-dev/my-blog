@@ -1,7 +1,7 @@
 ---
 title: 6 dicas de segurança no WordPress
 description: Dicas para aumentar a segurança do seu site WordPress
-date: 2017-12-08 04:41:00
+date: 2017-12-08T04:41:00.000Z
 image: assets/img/post_security.png
 category: wp
 background: "#459EDE"
@@ -89,3 +89,5 @@ Existem diversas formas de fazer isso, incluindo a alteração dos arquivos PHP 
 Um que foi testado pelo Presença Online .NET é o Meta Generator and Version Info Remover. Com ele é possível retirar a tag do WordPress com uma simples instalação e ativação de plugin.
 
 Veja o vídeo no YouTube com mais detalhes das 6 dicas de segurança no WordPress:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2h6a-qUMLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
