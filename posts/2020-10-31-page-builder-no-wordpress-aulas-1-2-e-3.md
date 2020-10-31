@@ -2,7 +2,7 @@
 title: Page Builder no WordPress - Aulas 1, 2 e 3
 description: Comece a aprender como usar o plugin Page Builder do WordPress em 3
   vídeos aulas
-date: 2018-07-24 06:42:48
+date: 2018-07-24T06:42:48.000Z
 image: assets/img/page-builder-wordpress.png
 category: wp
 background: "#459EDE"
@@ -32,3 +32,15 @@ Depois que uma seção for incluída e que for definida a estrutura das colunas,
 Visto que existem muitas possibilidade com o Elementor, está sendo criado um mini curso no nosso canal no YouTube. Já foram disponibilizadas as 3 primeiras aulas.
 
 A primeira trata da instalação do plugin e dá um overview básico do mesmo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tnyGacuOLhI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A segunda aula dá explicações mais detalhadas sobre seções e elementos e como é o comportamento em relação aos temas e modelos de página.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBccbgdA1Fk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Na terceira aula, mostramos o componente HTML, que nos permite incorporar código customizado, como do Google Forms, por exemplo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1fBqqF1Q0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Nas próximas aulas vamos começar a montar uma página do zero. Dessa forma, teremos um passo a passo do zero à página completa usando o plugin. Para não perder nada, assine o canal, ative as notificações e nos acompanhe nas nossas redes sociais (Facebook e Instagram).
