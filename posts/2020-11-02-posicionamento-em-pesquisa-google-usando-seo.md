@@ -2,7 +2,7 @@
 title: Posicionamento em pesquisa Google usando SEO
 description: Dicas sobre escolha da palavra chave, análise da concorrência e
   como escrever o texto para melhorar o SEO do site
-date: 2018-08-24 01:53:48
+date: 2018-08-24T01:53:48.000Z
 image: assets/img/posicionamento-em-pesquisa-google.png
 category: mkt
 background: "#544416"
@@ -104,4 +104,105 @@ Em relação a esse ponto uma questão que as vezes gera dúvidas é sobre as pa
 
 ### Lista de palavras de transição com 2 ou mais palavras:
 
-a fim de
+* a fim de
+* a fim de que
+* a menos que
+* a princípio
+* a saber
+* acima de tudo
+* ainda assim
+* ainda mais
+* ainda que
+* além disso
+* antes de mais nada
+* antes de tudo
+* antes que
+* ao mesmo tempo
+* ao passo que
+* ao propósito
+* apesar de
+* às vezes
+* assim como
+* assim que
+* assim sendo
+* assim também
+* bem como
+* com a finalidade de
+* com efeito
+* com o fim de
+* com o intuito de
+* com o propósito de
+* com toda a certeza
+* como resultado
+* como se
+* da mesma forma
+* de acordo com
+* de conformidade com
+* de fato
+* de maneira idêntica
+* de tal forma que
+* de tal sorte que
+* depois que
+* desde que
+* dessa forma
+* dessa maneira
+* desse modo
+* do mesmo modo
+* é provável
+* em conclusão
+* em contrapartida
+* em contraste com
+* em outras palavras
+* em primeiro lugar
+* em princípio
+* em resumo
+* em seguida
+* em segundo lugar
+* em síntese
+* em suma
+* em terceiro lugar
+* em virtude de
+* finalmente agora atualmente
+* isto é
+* já que
+* logo após
+* logo depois
+* logo que
+* mesmo que
+* não apenas
+* nesse hiato
+* nesse ínterim
+* nesse meio tempo
+* nesse sentido
+* no entanto
+* no momento em que
+* ou por outra
+* ou seja
+* para que
+* pelo contrário
+* por analogia
+* por causa de
+* por certo
+* por conseguinte
+* por conseqüência
+* por exemplo
+* por fim
+* por isso
+* por mais que
+* por menos que
+* por outro lado
+* posto que
+* se acaso
+* se bem que
+* seja como for
+* sem dúvida
+* só para exemplificar
+* só para ilustrar
+* só que
+* sob o mesmo ponto de vista
+* talvez provavelmente
+* tanto quanto
+* uma vez que
+* visto que
+
+Lista de palavras de transição dividida em partes:
