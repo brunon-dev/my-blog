@@ -2,13 +2,13 @@
 title: "Fazendo o terceiro teste de post"
 description: Phasellus in iaculis metus, at dignissim felis. Pellentesque aliquet felis in ex posuere vulputate.
 date: 2018-08-08 12:11:41
-image: assets/img/reuniao.png
+image: assets/img/reuniao.jpg
 category: misc
 background: "#16542E"
 ---
 ## Este é o terceiro post criado
 
-![Post de número três](assets/img/reuniao.jpeg "Terceiro post")
+![Post de número três](assets/img/reuniao.jpg "Terceiro post")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean augue augue, ultrices eu lacinia quis, euismod id nibh. Nam vestibulum libero eget tellus malesuada dapibus. In elementum felis vel magna iaculis, ac vehicula neque pretium. Maecenas tempor tempor lobortis. Fusce quis porttitor tellus. Duis laoreet commodo libero, eget congue est fermentum eu. In elementum malesuada velit at mattis.
 

@@ -14,7 +14,7 @@ Sed dapibus tincidunt ornare. Donec vitae facilisis urna. Nunc aliquam, felis qu
 
 Phasellus in iaculis metus, at dignissim felis. Pellentesque aliquet felis in ex posuere vulputate. Proin ac leo laoreet, sollicitudin sem vel, molestie ligula. In dignissim sapien ac lacus pretium venenatis. Ut vitae facilisis odio, et venenatis elit. Ut elit justo, porta in erat sit amet, consequat venenatis purus. Sed suscipit ante non enim finibus, et rutrum turpis varius. Maecenas erat augue, porta quis aliquet quis, vestibulum et nisi. Suspendisse suscipit tellus ut rutrum pellentesque. Nullam sed tortor id elit egestas pharetra. Vivamus ornare ut mi id vulputate. Phasellus a commodo leo.
 
-![Segundo teste de post](assets/img/negociacao.jpeg "Mais um post no blog")
+![Segundo teste de post](assets/img/negociacao.jpg "Mais um post no blog")
 
 Ut in nisi eget metus interdum dapibus in eu urna. Etiam condimentum felis eget cursus tincidunt. Phasellus dolor ante, suscipit id tincidunt fringilla, consequat vel purus. Suspendisse et velit eget sapien malesuada tincidunt sit amet et sapien. Suspendisse consectetur nisi id egestas vestibulum. Quisque ullamcorper felis et turpis venenatis, vel pretium urna vehicula. Fusce id nisl leo. Phasellus congue nibh quis purus sodales mollis. Quisque vulputate leo vestibulum, imperdiet lectus ut, pellentesque augue. Proin placerat condimentum augue, non mollis nisi molestie et. Praesent ipsum augue, fringilla ac efficitur at, pretium a quam. Fusce sed congue felis, ultrices luctus nibh.
 

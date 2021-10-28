@@ -2,7 +2,7 @@
 title: Primeiro post de teste
 description: Criando um primeiro post para fazer um teste do funcionamento do Gatsby e como é feito o tratamento de conteúdo markdown.
 date: 2018-09-17 10:38:57
-image: assets/img/estudante.jpeg
+image: assets/img/estudante.jpg
 category: WP
 background: "#459EDE"
 ---
@@ -11,7 +11,7 @@ background: "#459EDE"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean augue augue, ultrices eu lacinia quis, euismod id nibh. Nam vestibulum libero eget tellus malesuada dapibus. In elementum felis vel magna iaculis, ac vehicula neque pretium. Maecenas tempor tempor lobortis. Fusce quis porttitor tellus. Duis laoreet commodo libero, eget congue est fermentum eu. In elementum malesuada velit at mattis.
 
-![Fazendo um primeiro teste de post](assets/img/estudante.jpeg "Primeiro post de teste")
+![Fazendo um primeiro teste de post](assets/img/estudante.jpg "Primeiro post de teste")
 
 Sed dapibus tincidunt ornare. Donec vitae facilisis urna. Nunc aliquam, felis quis ornare hendrerit, dui turpis hendrerit neque, vitae faucibus purus mi id enim. Maecenas tempor urna sit amet auctor lacinia. Duis non nisl vel purus cursus aliquet non eu lacus. Vestibulum interdum lacus ac tempus facilisis. Nam id eleifend lectus. Nulla eget rutrum tellus, auctor consequat mauris. Maecenas sit amet massa elit. Phasellus rhoncus erat eget magna fermentum venenatis. Quisque viverra ante eu elit condimentum ultricies.
 
